@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+ <head>
+  <style>
+  p {
+    font-family: Papyrus;
+  }
+  </style>
+  <body>
+   <h3>List of Pharaohs</h3>
+   <p style= "font-family: Papyrus"> Claudius </p>
+   <p style= "font-family: Papyrus"> Cleopatra </p>
+   <p style= "font-family: Papyrus"> Tut </p>
+  </body>
+</html>
