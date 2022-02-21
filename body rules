@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+ <head>
+  <style>
+   body {
+    background-color: lightBlue;
+    color: white;
+   }
+
+   h1 {
+    font-family: Helvetica;
+   }
+  </style>
+ </head>
+ <body>
+  <h1>The new Yphone</h1>
+  <p>Now with zero cameras. Why? Nobody knows.</p>
+ </body>
+</html>
