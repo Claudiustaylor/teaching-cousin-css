@@ -1,0 +1,17 @@
+Style.css
+
+
+.mainPhoto {
+  height: 200px;
+  width: 200px;
+}
+
+.caution {
+  border: solid 10px red;
+
+img{
+  height: 100px;
+  
+}
+
+
