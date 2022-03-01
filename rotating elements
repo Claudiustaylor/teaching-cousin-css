@@ -1,0 +1,10 @@
+img{
+
+  transform: rotate (90 deg);
+ }
+ 
+ body{
+ 
+ text-align: center;
+ 
+ )
